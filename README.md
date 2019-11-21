@@ -16,7 +16,7 @@ The goal is to build a model to predict whether a client will subscribe. If the 
 ## 3. Data Source
 The data are related with bank deposit subscription for 40,181 clients and 15 features, and the decision variable (y) is whether the client subscribed a term.
 
-4. Exploratory Data Analysis
+## 4. Exploratory Data Analysis
 4.1 Missing Data
 The missing data can distort the real pattern hidden in the data. I looked into how many missing values are in each of these columns. After I check the dataset, there is no any explicit missing values for any variable. 
 
